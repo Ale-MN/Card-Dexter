@@ -2,4 +2,4 @@
 
 La idea principal es practicar Tailwind
 
-\*Dexter? => Mi gato 🐈
+- Quien es Dexter? => Mi gato 🐈
